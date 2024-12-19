@@ -32,6 +32,7 @@ from .anymal import *
 from .cart_double_pendulum import *
 from .cartpole import *
 from .franka import *
+from .gofa import *
 from .humanoid import *
 from .kinova import *
 from .quadcopter import *
